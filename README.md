@@ -1,5 +1,5 @@
 # improved-octo-doodle
-数据共享，开放学习
+数据共享，开放学习. 寻找数组中的鞍点（行最大列最小）
 #include <stdio.h>
 int main()
 {
